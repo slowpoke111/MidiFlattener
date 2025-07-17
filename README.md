@@ -1,5 +1,5 @@
 # MidiFlattener
-For use with LSRobotics/2025Robot
+For use with [LSRobotics/2025Robot](https://github.com/LSRobotics/2025Robot)
 
 Split a polyphonic midi file into a midi file with seperate monophonic voices, for control over how CTRE Orchestrate slices it.
 
